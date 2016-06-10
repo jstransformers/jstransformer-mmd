@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-mmd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MultiMarkdown support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -26,6 +26,6 @@
   "license": "MIT",
   "dependencies": {
     "extend": "^3.0.0",
-    "mmd": "^4.7.1"
+    "jstransformer-markdown-it": "^0.2.3"
   }
 }

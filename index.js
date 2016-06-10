@@ -1,12 +1,9 @@
 'use strict';
 
-var mmd = require('mmd');
-var extend = require('extend');
+var markdownIt = require('jstransformer-markdown-it');
 
 exports.name = 'mmd';
 exports.inputFormats = ['md', 'mmd', 'multimarkdown'];
 exports.outputFormat = 'html';
 
-exports.render = function (str, options, locals) {
-  return mmd.convert(str, extend({}, options || {}, locals || {}));
-};
+exports.render = markdownIt.render;
