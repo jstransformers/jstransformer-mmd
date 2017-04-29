@@ -1,5 +1,7 @@
 # jstransformer-mmd
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-mmd.svg)](https://greenkeeper.io/)
+
 [MultiMarkdown](https://github.com/mnichols/node-mmd) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-mmd/master.svg)](https://travis-ci.org/jstransformers/jstransformer-mmd)
