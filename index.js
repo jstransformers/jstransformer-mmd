@@ -1,6 +1,6 @@
 'use strict'
 
-var markdownIt = require('jstransformer-markdown-it')
+const markdownIt = require('jstransformer-markdown-it')
 
 exports.name = 'mmd'
 exports.inputFormats = ['md', 'mmd', 'multimarkdown']
