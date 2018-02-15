@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var mmd = require('jstransformer')(require('jstransformer-mmd'));
+var mmd = require('jstransformer')(require('jstransformer-mmd'))
 
 mmd.render('# Hello, World!').body
 //=> '<h1 id="helloworld">Hello, World!</h1>'
