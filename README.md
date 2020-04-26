@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-mmd/master.svg)](https://travis-ci.org/jstransformers/jstransformer-mmd)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-mmd/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-mmd)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-mmd/master.svg)](http://david-dm.org/jstransformers/jstransformer-mmd)
-
 [![NPM version](https://img.shields.io/npm/v/jstransformer-mmd.svg)](https://www.npmjs.org/package/jstransformer-mmd)
 
 ## Installation
