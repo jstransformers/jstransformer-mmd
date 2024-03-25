@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "jstransformer-markdown-it": "^2.0.0"
+    "jstransformer-markdown-it": "^3.0.0"
   },
   "name": "jstransformer-mmd",
   "version": "0.1.0",
